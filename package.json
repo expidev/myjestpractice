@@ -1,0 +1,19 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "Learning TDD with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "TDD",
+    "React"
+  ],
+  "author": "Nasandratra Harivonjy",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
